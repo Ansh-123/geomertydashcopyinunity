@@ -23,7 +23,7 @@ public class moveForward : MonoBehaviour
         if(Input.GetButtonDown("Jump") && CubeOnGround == true){
             //jump code
         
-            rb.AddForce(new Vector3(0, 10, 0), ForceMode.Impulse);
+            rb.AddForce(new Vector3(0, 20, 0), ForceMode.Impulse);
             CubeOnGround = false;
 
         }
