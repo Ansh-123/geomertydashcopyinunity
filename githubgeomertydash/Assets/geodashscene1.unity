@@ -176,7 +176,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2970956486334172886, guid: 119834b0206e19e4c993e9dd909ade1d, type: 3}
       propertyPath: m_Name
-      value: pointyspike Variant (6)
+      value: pointyspike Variant
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 119834b0206e19e4c993e9dd909ade1d, type: 3}
@@ -233,7 +233,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2970956486334172886, guid: 119834b0206e19e4c993e9dd909ade1d, type: 3}
       propertyPath: m_Name
-      value: pointyspike Variant (7)
+      value: pointyspike Variant
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 119834b0206e19e4c993e9dd909ade1d, type: 3}
@@ -416,7 +416,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2970956486334172886, guid: 119834b0206e19e4c993e9dd909ade1d, type: 3}
       propertyPath: m_Name
-      value: pointyspike Variant (4)
+      value: pointyspike Variant
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 119834b0206e19e4c993e9dd909ade1d, type: 3}
@@ -607,7 +607,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2970956486334172886, guid: 119834b0206e19e4c993e9dd909ade1d, type: 3}
       propertyPath: m_Name
-      value: pointyspike Variant (3)
+      value: pointyspike Variant
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 119834b0206e19e4c993e9dd909ade1d, type: 3}
@@ -855,6 +855,37 @@ PrefabInstance:
       objectReference: {fileID: 13400000, guid: 62d208bf0116740b8b7d5043e4a46267, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7c1be667bf71afe479241e6f27c3d3a8, type: 3}
+--- !u!1 &807281716
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 807281717}
+  m_Layer: 0
+  m_Name: CameraRespawn
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &807281717
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 807281716}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -5.72, y: 10.65, z: 46.6}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 36
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &868395914
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1042,7 +1073,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2970956486334172886, guid: 119834b0206e19e4c993e9dd909ade1d, type: 3}
       propertyPath: m_Name
-      value: pointyspike Variant (11)
+      value: pointyspike Variant
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 119834b0206e19e4c993e9dd909ade1d, type: 3}
@@ -1229,7 +1260,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2970956486334172886, guid: 119834b0206e19e4c993e9dd909ade1d, type: 3}
       propertyPath: m_Name
-      value: pointyspike Variant (9)
+      value: 'pointyspike Variant '
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 119834b0206e19e4c993e9dd909ade1d, type: 3}
@@ -1286,7 +1317,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2970956486334172886, guid: 119834b0206e19e4c993e9dd909ade1d, type: 3}
       propertyPath: m_Name
-      value: pointyspike Variant (2)
+      value: pointyspike Variant
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 119834b0206e19e4c993e9dd909ade1d, type: 3}
@@ -1489,7 +1520,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2970956486334172886, guid: 119834b0206e19e4c993e9dd909ade1d, type: 3}
       propertyPath: m_Name
-      value: pointyspike Variant (5)
+      value: pointyspike Variant
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 119834b0206e19e4c993e9dd909ade1d, type: 3}
@@ -1546,7 +1577,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2970956486334172886, guid: 119834b0206e19e4c993e9dd909ade1d, type: 3}
       propertyPath: m_Name
-      value: pointyspike Variant (1)
+      value: pointyspike Variant
       objectReference: {fileID: 0}
     - target: {fileID: 7918705319714907520, guid: 119834b0206e19e4c993e9dd909ade1d, type: 3}
       propertyPath: m_Convex
@@ -1676,7 +1707,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2970956486334172886, guid: 119834b0206e19e4c993e9dd909ade1d, type: 3}
       propertyPath: m_Name
-      value: pointyspike Variant (10)
+      value: 'pointyspike Variant '
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 119834b0206e19e4c993e9dd909ade1d, type: 3}
@@ -1953,7 +1984,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2970956486334172886, guid: 119834b0206e19e4c993e9dd909ade1d, type: 3}
       propertyPath: m_Name
-      value: pointyspike Variant (8)
+      value: pointyspike Variant
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 119834b0206e19e4c993e9dd909ade1d, type: 3}
@@ -2349,6 +2380,7 @@ GameObject:
   - component: {fileID: 4730581937393698675}
   - component: {fileID: 4730581937393698677}
   - component: {fileID: 4730581937393698678}
+  - component: {fileID: 4730581937393698679}
   m_Layer: 0
   m_Name: Roundcube
   m_TagString: Player
@@ -2543,5 +2575,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ac47b1ad707c84014a82bc0d3921ba88, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  player: {fileID: 0}
-  respawnPoint: {fileID: 0}
+  player: {fileID: 1918343895938618121}
+  respawnPoint: {fileID: 1929675598}
+--- !u!114 &4730581937393698679
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1162167262670313563}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be5a50cc8fe3c48aa800f1a9a2dde210, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  player: {fileID: 1918343895938618121}
+  camera: {fileID: 1760276778}
+  respawnPoint: {fileID: 1929675598}
+  cameraRespawnPoint: {fileID: 807281717}
